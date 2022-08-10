@@ -1,0 +1,23 @@
+.contacts-link,
+.nav-links-link,
+.contacts-link-footer,
+.modal-btn,
+.team-social-list-link,
+.clients-list__link,
+.footer-social-list-link,
+.button-filter-item,
+.projects-list-link,
+.modal-close-btn,
+.contact-form-input,
+.contact-form-input-svg,
+.contact-form-message,
+.contact-form-submit-btn,
+.subscription-form-submit-btn,
+.contact-form-checkbox,
+.contact-form-policy-linc {
+
+    transition:
+        color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+        background-color 250ms cubic-bezier(0.4, 0, 0.2, 1),
+        box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1)
+}
